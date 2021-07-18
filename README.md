@@ -14,7 +14,7 @@ After all the modules are installed we need to build the extension
 npm run build
 ```
 
-The build folder will include all the necessary file we need for the extensiopn. Now to run the extension locally on your firefox browser you need to follow the below steps.
+The build folder will include all the necessary files we need for the extension. Now to run the extension locally on your firefox browser you need to follow the below steps.
 
 #### Steps
 1. Go to `Add-ons and Themes` 
