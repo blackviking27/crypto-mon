@@ -2,7 +2,7 @@ body{
   margin: 0;
   padding: 0;
   /* remove the comment in the build version since it will be required in the extension */
-  min-height: 500px;
+  min-height: 550px;
   min-width: 800px;
   font-family: 'Poppins', sans-serif;
   /* background-color: thistle; */
