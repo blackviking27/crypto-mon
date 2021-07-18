@@ -4,7 +4,7 @@ This is a mozilla firefox extension which tells the latest cryptocurrency rates.
 ## Installation
 Create a clone or download the code, whichever suits you best.
 
-Installing the modules, go to the folder which has the files and run the below command 
+Install modules, go to the folder which has the files and run the below command 
 ```
 npm install
 ```
