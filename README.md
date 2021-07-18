@@ -1,4 +1,6 @@
 # CryptoMon
+<img src="https://img.shields.io/badge/-react%20js-blue" /> <img src="https://img.shields.io/badge/-open%20%20source-blue" />
+
 This is a mozilla firefox extension which tells the latest cryptocurrency rates.
 
 ## Installation
