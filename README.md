@@ -3,6 +3,8 @@
 
 This is a mozilla firefox extension which tells the latest cryptocurrency rates.
 
+You can get the extension [here](https://addons.mozilla.org/en-US/firefox/addon/crypto-monitor/). (The extension is only available for Mozilla Firefox)
+
 ## Installation
 Create a clone or download the code, whichever suits you best.
 
